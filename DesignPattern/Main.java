@@ -11,7 +11,7 @@ import DesignPattern.State.MyTool;
 
 public class Main{
       public static void main(String[] args) {
-        System.out.println("Design. Learning Design Patterns");  
+        System.out.println("Learning Design Patterns");  
         mementoPattern(); 
         simpleStatePattern();
         complexStatePattern();
