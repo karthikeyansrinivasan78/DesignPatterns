@@ -10,7 +10,7 @@ import DesignPattern.State.StopWatch;
 import DesignPattern.State.MyTool;
 /**
  * Class: Main
- * Description: This class implements main mehtods. This method invokes all patterns.
+ * Description: This class implements main mehtod. This method invokes all patterns.
  */
 public class Main{
       public static void main(String[] args) {
